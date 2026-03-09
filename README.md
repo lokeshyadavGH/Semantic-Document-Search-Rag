@@ -34,3 +34,12 @@ Run the application
 ```id="l2upcb"
 python app.py
 ```
+
+## Semantic Document Search using RAG
+
+• Built a Retrieval-Augmented Generation (RAG) system using Sentence Transformers embeddings and FAISS vector search.  
+• Integrated Llama3 via Ollama to generate context-aware answers using retrieved document content.  
+• Designed a semantic search pipeline enabling efficient retrieval of relevant document chunks for AI-assisted knowledge discovery.
+
+Tech Stack: Python, Sentence Transformers, FAISS, Llama3 (Ollama)
+
