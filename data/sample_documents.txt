@@ -1,0 +1,70 @@
+﻿LOKESH YADAV
+Gurugram, Haryana, India
+lokesh.yadav1994@yahoo.com | +91-9599991739
+LinkedIn: linkedin.com/in/ylokesh | GitHub: github.com/lokeshyadavGH
+
+BUSINESS INTELLIGENCE ANALYST – DATA INSIGHTS, DASHBOARDS & BUSINESS STRATEGY
+SQL • Power BI • Advanced Excel • Python • Data Analysis • KPI Tracking • Business Reporting
+
+PROFESSIONAL SUMMARY
+Business Intelligence Analyst with 3+ years of experience using data analytics and dashboards to drive business insights and operational improvements. Skilled in SQL, Power BI, Python, and Advanced Excel for building KPI dashboards, analyzing large datasets, and delivering data-driven insights to support strategic decision-making. Experienced in working with cross‑functional stakeholders to identify performance drivers, improve business processes, and translate complex data into actionable recommendations. Adept at creating business reports and presentations that help leadership teams track growth metrics and evaluate strategic initiatives.
+
+PROFESSIONAL EXPERIENCE
+Operations Analyst 
+Topper's Pizza | Canada
+Jan 2022 – Jun 2025
+• Built Power BI dashboards and analytical reports to track key business KPIs including revenue trends, order volumes, staffing efficiency, and operational performance.
+• Analyzed large transactional datasets using SQL and Python to identify trends, operational inefficiencies, and opportunities for performance improvement.
+• Partnered with business teams to gather reporting requirements and translate them into dashboards and analytical reports.
+• Developed Advanced Excel models and reports used by management to monitor business performance and support operational planning.
+• Conducted deep-dive analyses on operational metrics to identify drivers of growth and areas for process optimization.
+• Presented insights through dashboards, reports, and presentations to support strategic business discussions.
+• Documented KPI definitions and reporting logic to ensure consistency across performance dashboards.
+
+Data Analyst (Trainee)
+Source One Financial Corporation | Remote (Canada)
+Jan 2020 – Apr 2020
+• Extracted and analyzed financial datasets using SQL to support performance reporting and portfolio analysis.
+• Conducted exploratory data analysis using Python (Pandas, NumPy) to identify patterns in financial and customer datasets.
+• Built Tableau dashboards to visualize financial KPIs and business performance metrics.
+• Assisted in preparing analytical reports and presentations used by internal stakeholders.
+
+Big Data Analyst
+Substratal Solutions Pvt. Ltd. | Gurugram, India
+Feb 2018 – Jul 2018
+• Built SQL and Python-based ETL workflows to prepare large datasets for analytics and reporting.
+• Optimized SQL queries and structured datasets to improve reporting performance.
+• Supported analytics infrastructure using AWS S3 for cloud-based data storage.
+
+
+
+KEY ANALYTICS PROJECTS
+Business KPI & Performance Dashboard
+• Designed Power BI dashboards to monitor business metrics such as revenue growth, order trends, and operational performance.
+• Enabled stakeholders to track KPIs and make data-driven decisions to improve operational outcomes.
+
+Semantic Document Search using RAG
+• Built a Retrieval-Augmented Generation (RAG) system using Sentence Transformers embeddings and FAISS vector search.
+• Integrated Llama3 via Ollama to generate context-aware answers using retrieved document content.
+• Designed a semantic search pipeline enabling efficient retrieval of relevant document chunks for AI-assisted knowledge discovery.
+
+Customer & Transaction Segmentation
+• Performed segmentation analysis using SQL and Python to identify high-value customer segments and behavioral trends.
+
+TECHNICAL SKILLS
+Business Intelligence & Analytics
+Power BI • Tableau • KPI Dashboard Development • Business Reporting • Data Visualization
+Programming & Querying
+SQL • Python (Pandas, NumPy)
+Tools & Platforms
+Advanced Excel • Google BigQuery • AWS (S3) • GitHub • Streamlit
+
+EDUCATION
+PG Certificate – Big Data Analytics – Georgian College, Canada
+PG Certificate – Business Management – Canadore College, Canada
+B.Tech – Mechanical Engineering – Maharshi Dayanand University, India
+
+CERTIFICATIONS
+Google Advanced Data Analytics Certificate
+Google Data Analytics Professional Certificate
+
